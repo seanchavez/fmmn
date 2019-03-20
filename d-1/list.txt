@@ -1,0 +1,9 @@
+a
+beep.txt
+boop.txt
+good
+hello.txt
+images
+list.txt
+moby-dick.txt
+wow
